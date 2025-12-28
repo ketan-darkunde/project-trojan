@@ -77,3 +77,5 @@ trojan script which is included in trojan_victim.py
 
 2. After running downloader Trojan, victim machine downloads malicious script from internet and it
 will automatically run the malicious script on victim machine.
+
+------------------------------------------–-----–----
