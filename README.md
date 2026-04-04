@@ -1,12 +1,10 @@
-# Project-Trojan
-Basic Demonstration of Trojan -
+### Project-Trojan
+## Basic Demonstration of Trojan -
 
-Backdoors: For Windows -
-
+## Backdoors: For Windows -
 1. Check the execution permission of the script.
 2. Do chmod 755 or chmod +x backdoor.sh
 3. Run. /backdoor.sh
-
 4. Choose your option for your liking. We are demonstrating for Windows.
 5. Step for generation:
     Select 1 for windows.
@@ -17,8 +15,6 @@ Backdoors: For Windows -
 genuine”
     Your Payload is generated!!!!!!
     Now send the payload to victim by any means and if he use it he will be hooked.
-
-
 6. Now to exploit:
     Start the listener prompt.
     It will automatically setup msfconsole for you.
@@ -30,7 +26,7 @@ genuine”
     Use espia
     Screengrab
 
-Backdoor Trojan using Python -
+## Backdoor Trojan using Python -
 
 Creating Backdoor Trojan, we use python socket programming for creating session with victim
 machine. Socket programming is a way of connecting two nodes on a network to communicate with
@@ -63,7 +59,7 @@ provided in trojan_victim.py script.
 2. Victim server is a windows 7 machine, machine receives countless SYN packets. After some time
 it will get hang and stop responding.
 
-Downloader Trojan -
+## Downloader Trojan -
 
 Downloader is a type of Trojan virus that downloads and installs/executes one or more
 malicious programs from the internet including Trojans and adware. Its main purpose is to download
